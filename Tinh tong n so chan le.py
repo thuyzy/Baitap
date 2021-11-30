@@ -7,3 +7,4 @@ for i in range (1,n+1):
     tongle +=i*2-1
 print("Tổng các số chẵn: ",tongchan)
 print("Tổng các số lẻ: ",tongle)
+print("Vy ngu ngok")
